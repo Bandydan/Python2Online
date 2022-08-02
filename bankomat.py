@@ -1,3 +1,6 @@
+dfojsdfljvnds;lkvn
+sd;lknsd;lkv;ldfmv
+sd;lkbndslk;bn;lds
 #Банкомат выдает сумму максимально возможными купюрами
 
 # banknotes = [1000, 500, 200, 100, 50, 20, 10]
